@@ -1,6 +1,6 @@
 ### Hi, this is Farid Rony 
 
-![](https://faridrony55.github.io/emailtemplate-img/faridronyurlofgithub.png)
+![https://faridrony55.github.io/emailtemplate-img/faridronyurlofgithub.png]
 
 I have more than 8 years of experience with a vast majority dedicated to operational and technical. I constantly challenge myself to solve problems by Coding, Development and I love making exclusive Shopify Store. 
 
