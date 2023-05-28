@@ -8,8 +8,11 @@ I have a huge range of experience all the way from start-ups to large Fortune 50
  
 Above all, I offer great communication. I feel that this is one of the most important facets of getting a job completed effectively, so you can count on me giving you great customer service during and after the job is done,
 
-My areas of expertise include: 
-- Shopify:
+### Skills:  
+REACT JS / NEXT JS / SHOPIFY / WORDPRESS / FIGMA / HTML / CSS
+
+## My areas of expertise include: 
+### Shopify
  + Store Setup 
  + Migration
  + Theme Tweak 
@@ -23,7 +26,8 @@ My areas of expertise include:
  + Invisionapp to Shopify 
  + Sketch to Shopify
  + Page Builder ( Pagefly, Shogun, Gempages )
-- Wordpress
+ 
+### Wordpress
  + Ecommerce Website with Woocommerce
  + Elementor/Divi Builder/WP Page Builder/Thrive Architect
  + Premium Themes Customization (Themeforest and other market places...)
@@ -44,8 +48,9 @@ Experience in Liquid, JavaScript, HTML5, CSS3, Responsive, Bootstrap 5, JQuery, 
 Frameworks & CMS: Shopify, WordPress, Squarespace, Bigcommerce, Weebly, Webflow and Wix
 
 Feel free to contact me with any project.
-+ Email: codexcode4@gmail.com
-+ Meeting schedule: https://calendly.com/codexcode-it-solutions/30min
+### codexcode4@gmail.com
+![Meeting schedule](https://calendly.com/codexcode-it-solutions/30min)
+
 
 <!--
 **faridrony55/faridrony55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -61,17 +66,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ 
 
-
-### Hi there 👋, my name is Arturs
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-
-Skills: VUE JS / REACT / JS / HTML / CSS
-
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on your mind
 
 
 
