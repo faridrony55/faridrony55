@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=faridrony55)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=faridrony55)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=faridrony55)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 
 
