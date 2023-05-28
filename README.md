@@ -2,6 +2,12 @@
 
 ![](https://faridrony55.github.io/emailtemplate-img/faridronyurlofgithub.png)
 
+ 
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/faridrony55)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/faridrony/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/faridulrony)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/CodexCode)  
+
+
+
 I have more than 8 years of experience with a vast majority dedicated to operational and technical. I constantly challenge myself to solve problems by Coding, Development and I love making exclusive Shopify Store. 
 
 Created 150+ Shopify Stores, Highly Recommended Shopify Expert. I provide innovative, high-quality creative solutions and pursue every project with passion, intelligence, and personal commitment.
