@@ -51,7 +51,7 @@ Frameworks & CMS: Shopify, WordPress, Squarespace, Bigcommerce, Weebly, Webflow 
 
 Feel free to contact me with any project.
 ### codexcode4@gmail.com
-[Meeting schedule](https://calendly.com/codexcode-it-solutions/30min)
+### [Meeting schedule](https://calendly.com/codexcode-it-solutions/30min)
 
 
 <!--
@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 -->
  
 
-- 🔭 I’m currently working on your mind
+🔭 I’m currently working on your mind
 
 
 
