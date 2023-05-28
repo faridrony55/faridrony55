@@ -72,6 +72,14 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working on your mind
 
+ 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=faridrony55&show_icons=true)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=faridrony55)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=faridrony55)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 
 
 
