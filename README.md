@@ -49,7 +49,7 @@ Frameworks & CMS: Shopify, WordPress, Squarespace, Bigcommerce, Weebly, Webflow 
 
 Feel free to contact me with any project.
 ### codexcode4@gmail.com
-![Meeting schedule](https://calendly.com/codexcode-it-solutions/30min)
+[Meeting schedule](https://calendly.com/codexcode-it-solutions/30min)
 
 
 <!--
