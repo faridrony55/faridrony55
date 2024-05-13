@@ -1,6 +1,6 @@
 ### Hi, this is Farid Rony 
 
-![](https://faridrony55.github.io/emailtemplate-img/faridronyurlofgithub.png)
+![](https://faridrony55.github.io/emailtemplate-img/linkedin-github-img.png)
 
  
 
