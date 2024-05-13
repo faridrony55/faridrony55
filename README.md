@@ -56,6 +56,7 @@ Experience in Liquid, JavaScript, HTML5, CSS3, Responsive, Bootstrap 5, JQuery, 
 Frameworks & CMS: Shopify, WordPress, Squarespace, Bigcommerce, Weebly, Webflow and Wix
 
 Feel free to contact me with any project.
+### [Codexcode](https://codexcode.org)
 ### codexcode4@gmail.com
 ### [Meeting schedule](https://calendly.com/codexcode-it-solutions/30min)
 
