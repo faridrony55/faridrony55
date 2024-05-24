@@ -17,7 +17,7 @@ I have a huge range of experience all the way from start-ups to large Fortune 50
 Above all, I offer great communication. I feel that this is one of the most important facets of getting a job completed effectively, so you can count on me giving you great customer service during and after the job is done,
 
 ### Skills:  
-REACT JS / NEXT JS / SHOPIFY / WORDPRESS / FIGMA / HTML / CSS
+SHOPIFY / Landing Page / WordPress / Big Commerce / FIGMA / REACT JS 
 
 ## My areas of expertise include: 
 ### Shopify
